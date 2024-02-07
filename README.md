@@ -1,4 +1,4 @@
-# CNN on CUDA
+# CNN with CUDA
 Implementation of a simple Convolutional Neural Network using CUDA. 
 
 ### Compiling and Execution
